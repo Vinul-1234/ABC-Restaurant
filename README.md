@@ -3,7 +3,7 @@
 
 ![alt text](https://res.cloudinary.com/djmemzuxc/image/upload/v1706364980/cjtrvrrx4bp92aayliae.gif)
 
-## Updated IN :
+## Updated  :
 
 1. TypesSection.tsx : adding slide 
 2. hotel-opons-cotinfig : hotelTypes - using free images
